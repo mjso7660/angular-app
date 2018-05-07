@@ -26,7 +26,7 @@ exports.config = {
     'browserName': 'chrome'
   },
   directConnect: true,
-  baseUrl: 'https://9ac47f13.ngrok.io',
+  baseUrl: 'https://2f2ffebd.ngrok.io',
   framework: 'jasmine',
   jasmineNodeOpts: {
     showColors: true,
