@@ -24,7 +24,7 @@ function getTarget() {
         const restServerURL = process.env.REST_SERVER_URL;
         return restServerURL;
     }
-    return 'https://1eadab42.ngrok.io';
+    return 'https://222103aa.ngrok.io';
 }
 
 const target = getTarget();
